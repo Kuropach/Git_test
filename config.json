@@ -1,0 +1,9 @@
+{
+  "initial_position": 3.0,
+  "initial_velocity": 0.0,
+  "dt": 0.001,
+  "w": 12.0,
+  "simulation_time": 10.0,
+  "output_file": "results_w15.csv",
+  "method": "RK4"
+}
